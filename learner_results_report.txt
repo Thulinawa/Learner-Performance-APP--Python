@@ -1,0 +1,61 @@
+Individual Outcomes:
+---------------------------------------
+Student ID SD001 belongs to Lerato Mokoena, who got a 72.0% passing mark and is an active student.
+Student ID SD002 belongs to Sipho Dlamini, who got a 43.0% failing mark and is an active student.
+Student ID SD003 belongs to Amina Jacobs, who got a 88.0% passing mark and is an inactive student.
+Student ID SD004 belongs to Thabo Nkosi, who got a 61.0% passing mark and is an active student.
+Student ID SD005 belongs to Naledi Khumalo, who got a 49.0% failing mark and is an active student.
+Student ID SD006 belongs to Jason Petersen, who got a 95.0% passing mark and is an active student.
+Student ID SD007 belongs to Zanele Ndlovu, who got a 54.0% passing mark and is an inactive student.
+Student ID SD008 belongs to Karabo Molefe, who got a 37.0% failing mark and is an active student.
+Student ID SD009 belongs to Amara Naidoo, who got a 83.0% passing mark and is an active student.
+Student ID SD010 belongs to Liam van der Merwe, who got a 50.0% passing mark and is an active student.
+Student ID SD011 belongs to Palesa Maseko, who got a 67.0% passing mark and is an inactive student.
+Student ID SD012 belongs to Daniel Botha, who got a 29.0% failing mark and is an active student.
+Student ID SD013 belongs to Nomsa Cele, who got a 76.0% passing mark and is an active student.
+Student ID SD014 belongs to Yusuf Ismail, who got a 91.0% passing mark and is an inactive student.
+Student ID SD015 belongs to Keabetswe Radebe, who got a 44.0% failing mark and is an active student.
+Student ID SD016 belongs to Mia Daniels, who got a 58.0% passing mark and is an active student.
+Student ID SD017 belongs to Siyabonga Zulu, who got a 100.0% passing mark and is an active student.
+Student ID SD018 belongs to Chloe Williams, who got a 0.0% failing mark and is an inactive student.
+Student ID SD019 belongs to Bongani Sithole, who got a 72.0% passing mark and is an active student.
+Student ID SD020 belongs to Fatima Khan, who got a 86.0% passing mark and is an active student.
+Student ID SD021 belongs to Andile Mthembu, who got a 50.0% passing mark and is an inactive student.
+Student ID SD022 belongs to Grace Mokoena, who got a 48.0% failing mark and is an active student.
+Student ID SD023 belongs to Ethan Jacobs, who got a 63.0% passing mark and is an active student.
+Student ID SD024 belongs to Refilwe Baloyi, who got a 79.0% passing mark and is an inactive student.
+Student ID SD025 belongs to Musa Shabalala, who got a 35.0% failing mark and is an active student.
+Student ID SD026 belongs to Olivia Smith, who got a 97.0% passing mark and is an active student.
+Student ID SD027 belongs to Lethabo Modise, who got a 52.0% passing mark and is an active student.
+Student ID SD028 belongs to Benjamin Adams, who got a 68.0% passing mark and is an inactive student.
+Student ID SD029 belongs to Thembi Dube, who got a 41.0% failing mark and is an active student.
+Student ID SD030 belongs to Arjun Pillay, who got a 88.0% passing mark and is an active student.
+---------------------------------------
+The Statistical Summary of this report follows:
+Total valid records: 30
+Number of students who passed: 21
+Number of students who failed: 9
+Mean score: 62.53
+Population standard deviation: 23.06
+Minimum score: 0.00
+Maximum score: 100.00
+Number of active students who passed: 14
+Number of active students: 22
+Number of inactive students: 8
+---------------------------------------
+The active students who have passed and are active are listed below:
+Student ID SD001 belongs to Lerato Mokoena, who got a 72.0% passing mark and is an active student.
+Student ID SD004 belongs to Thabo Nkosi, who got a 61.0% passing mark and is an active student.
+Student ID SD006 belongs to Jason Petersen, who got a 95.0% passing mark and is an active student.
+Student ID SD009 belongs to Amara Naidoo, who got a 83.0% passing mark and is an active student.
+Student ID SD010 belongs to Liam van der Merwe, who got a 50.0% passing mark and is an active student.
+Student ID SD013 belongs to Nomsa Cele, who got a 76.0% passing mark and is an active student.
+Student ID SD016 belongs to Mia Daniels, who got a 58.0% passing mark and is an active student.
+Student ID SD017 belongs to Siyabonga Zulu, who got a 100.0% passing mark and is an active student.
+Student ID SD019 belongs to Bongani Sithole, who got a 72.0% passing mark and is an active student.
+Student ID SD020 belongs to Fatima Khan, who got a 86.0% passing mark and is an active student.
+Student ID SD023 belongs to Ethan Jacobs, who got a 63.0% passing mark and is an active student.
+Student ID SD026 belongs to Olivia Smith, who got a 97.0% passing mark and is an active student.
+Student ID SD027 belongs to Lethabo Modise, who got a 52.0% passing mark and is an active student.
+Student ID SD030 belongs to Arjun Pillay, who got a 88.0% passing mark and is an active student.
+---------------------------------------
